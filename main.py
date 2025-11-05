@@ -32,7 +32,7 @@ async def main():
 
 
     dp.message.register(defs.alert)
-    bot = Bot("8296333807:AAEaP4ZPAJ-oU5aCzA4gaHeHuCCb4xrecEI")
+    bot = Bot("8165812265:AAEJXGhC2x9dV6OnB8lFxWWJMVqa0HfpOxA")
     await bot.set_my_commands([
         BotCommand(command='start',description='Botni ishga tushurish'),
         BotCommand(command='info', description='User haqida malumot'),
@@ -45,3 +45,4 @@ print("Bot ishladi")
 
 if __name__ == "__main__":
     run(main())
+

@@ -7,13 +7,9 @@ from aiogram.filters import Command
 import defs
 import states
 from defs import user_info,user_help,alert,start
-import  os
-from dotenv import load_dotenv
-
-load_dotenv()
 
 
-group_id = os.getenv("group_id")
+group_id = -1003212923751
 
 dp = Dispatcher()
 
@@ -32,7 +28,7 @@ async def main():
 
 
     dp.message.register(defs.alert)
-    bot = Bot("8165812265:AAEJXGhC2x9dV6OnB8lFxWWJMVqa0HfpOxA")
+    bot = Bot("8109704243:AAEkr728OeqOIObZCUtoqfazdTQrmgydNYw")
     await bot.set_my_commands([
         BotCommand(command='start',description='Botni ishga tushurish'),
         BotCommand(command='info', description='User haqida malumot'),
@@ -45,4 +41,5 @@ print("Bot ishladi")
 
 if __name__ == "__main__":
     run(main())
+
 

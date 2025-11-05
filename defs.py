@@ -9,7 +9,7 @@ from aiogram.fsm.context import FSMContext
 
 load_dotenv()
 
-group_id = os.getenv('group_id')
+group_id = -1003212923751
 
 async def admin(message: Message,bot : Bot):
     user = message.from_user
@@ -93,4 +93,5 @@ async def sign_up_age(message: Message,bot : Bot,state:FSMContext):
     await state.update_data(age=message.text)
     data = await state.get_data()
     await message.answer(f"""Sizni malumotingiz\nIsmingiz{data.get("name")}\nYoshingiz{data.get("age")}""")
+
     await state.clear()

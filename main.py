@@ -42,6 +42,10 @@ async def command_dashboard_handler(message: Message) -> None:
 async def command_test_handler(message: Message) -> None:
     await message.answer("Test muvaffaqiyatli ishladi")
 
+@dp.message(Command("testbot"))
+async def command_test_bot_handler(message: Message) -> None:
+    await message.answer("Test muvaffaqiyatli ishladi bu sinov uchun soat 16.02 yangi ozgarish oxshadi ")
+
 
 # Run the bot
 async def main() -> None:
@@ -55,3 +59,4 @@ if __name__ == "__main__":
     asyncio.run(main())
 
           
+

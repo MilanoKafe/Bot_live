@@ -1,62 +1,47 @@
-import asyncio
 
-from aiogram import Bot, Dispatcher
+from aiogram import Bot, Dispatcher, types
+from  asyncio import  run
+from aiogram.types import Message, BotCommand
 from aiogram.filters import Command
-from aiogram.types import Message
 
-TOKEN = ("8165812265:AAEJXGhC2x9dV6OnB8lFxWWJMVqa0HfpOxA")
+import defs
+import states
+from defs import user_info,user_help,alert,start
+import  os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
+group_id = os.getenv("group_id")
 
 dp = Dispatcher()
 
 
-# Command handler
-@dp.message(Command("start"))
-async def command_start_handler(message: Message) -> None:
-    await message.answer("Salom bot serverga qoyildi test muvaffaiyatli otdi")
-
-@dp.message(Command("help"))
-async def command_help_handler(message: Message) -> None:
-    await message.answer("Bu yerda yordam boladi")
-
-@dp.message(Command("info"))
-async def command_info_handler(message: Message) -> None:
-    await message.answer("Bu esa haqida")
-
-@dp.message(Command("community"))
-async def command_community_handler(message: Message) -> None:
-    await message.answer("Bu yerda jamo boladi")
-
-@dp.message(Command("contact"))
-async def command_contact_handler(message: Message) -> None:
-    await message.answer("Bu aloqa bolmi.")
-
-@dp.message(Command("admin"))
-async def command_admin_handler(message: Message) -> None:
-    await message.answer("Bu esa admin admin linki boladi")
-
-@dp.message(Command("dashboard"))
-async def command_dashboard_handler(message: Message) -> None:
-    await message.answer("Admin dashboard")
-
-@dp.message(Command("test"))
-async def command_test_handler(message: Message) -> None:
-    await message.answer("Test muvaffaqiyatli ishladi")
-
-@dp.message(Command("testbot"))
-async def command_test_bot_handler(message: Message) -> None:
-    await message.answer("Test muvaffaqiyatli ishladi bu sinov uchun soat 16.02 yangi ozgarish oxshadi ")
 
 
-# Run the bot
-async def main() -> None:
-    bot = Bot(token=TOKEN)
-    await dp.start_polling(bot)
 
-print("Bot ishga tushdi")
 
+
+async def main():
+    dp.message.register(defs.start,defs.admin, Command('start'))
+    dp.message.register(defs.user_info, Command('info'))
+    dp.message.register(defs.user_help, Command('help'))
+    dp.message.register(defs.sign_up_name, states.Sign_up.name)
+    dp.message.register(defs.sign_up_age, states.Sign_up.age)
+
+
+    dp.message.register(defs.alert)
+    bot = Bot("8296333807:AAEaP4ZPAJ-oU5aCzA4gaHeHuCCb4xrecEI")
+    await bot.set_my_commands([
+        BotCommand(command='start',description='Botni ishga tushurish'),
+        BotCommand(command='info', description='User haqida malumot'),
+        BotCommand(command='help', description='Bot boyicha yordam')
+    ])
+    await dp.start_polling(bot, polling_timeout=2)
+
+
+print("Bot ishladi")
 
 if __name__ == "__main__":
-    asyncio.run(main())
-
-          
-
+    run(main())

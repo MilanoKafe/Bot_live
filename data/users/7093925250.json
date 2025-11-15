@@ -1,0 +1,94 @@
+{
+  "id": 7093925250,
+  "username": "Cafe_Milano_Zomin",
+  "qbc": 0.5,
+  "total_questions": 2,
+  "correct_answers": 1,
+  "referrals": [],
+  "referred_by": null,
+  "created_at": "2025-11-15 20:32:55.740031",
+  "is_premium": false,
+  "premium_until": null,
+  "is_banned": false,
+  "attempted_questions": {
+    "backend": [
+      1,
+      3
+    ]
+  },
+  "chat_history": [
+    {
+      "ts": "2025-11-15 21:46:03.383344",
+      "direction": "in",
+      "text": "/admin"
+    },
+    {
+      "ts": "2025-11-15 21:46:05.924103",
+      "direction": "in",
+      "text": "/start"
+    },
+    {
+      "ts": "2025-11-15 21:46:35.659154",
+      "direction": "in",
+      "text": "/start"
+    },
+    {
+      "ts": "2025-11-15 21:49:51.476577",
+      "direction": "in",
+      "text": "/start"
+    },
+    {
+      "ts": "2025-11-15 22:14:38.596794",
+      "direction": "in",
+      "text": "/start"
+    },
+    {
+      "ts": "2025-11-15 22:15:19.939787",
+      "direction": "in",
+      "text": "/start"
+    },
+    {
+      "ts": "2025-11-15 22:15:25.992710",
+      "direction": "in",
+      "text": "/admin"
+    },
+    {
+      "ts": "2025-11-15 22:15:55.089044",
+      "direction": "in",
+      "text": "/admin"
+    },
+    {
+      "ts": "2025-11-15 22:16:02.133565",
+      "direction": "in",
+      "text": "/admin"
+    },
+    {
+      "ts": "2025-11-15 22:16:10.101339",
+      "direction": "in",
+      "text": "/admin"
+    },
+    {
+      "ts": "2025-11-15 22:16:27.096662",
+      "direction": "in",
+      "text": "/admin"
+    },
+    {
+      "ts": "2025-11-15 22:16:34.046615",
+      "direction": "in",
+      "text": "/admin"
+    },
+    {
+      "ts": "2025-11-15 22:16:47.574582",
+      "direction": "in",
+      "text": "/admin"
+    },
+    {
+      "ts": "2025-11-15 22:17:08.901160",
+      "direction": "in",
+      "text": "/admin"
+    }
+  ],
+  "completed_tests": [
+    "backend"
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "user_id": 7613242496,
+    "username": "MirkomilCoder",
+    "text": "Meni muammom shu",
+    "created_at": "2025-11-15 22:03:58.939721",
+    "status": "answered",
+    "admin_reply": "Aha tushunarli\r\n"
+  },
+  {
+    "id": 2,
+    "user_id": 7613242496,
+    "username": "MirkomilCoder",
+    "text": "habar admin",
+    "created_at": "2025-11-15 22:05:00.458961",
+    "status": "new",
+    "admin_reply": null
+  }
+]

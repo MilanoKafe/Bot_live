@@ -1,0 +1,20 @@
+# Requirements for Mukammal Quiz Bot
+# Core bot (aiogram v3.x)
+aiogram>=3.2.2,<4.0.0
+
+# Async HTTP (aiogram dependency; pin compatible range)
+aiohttp>=3.8.0,<4.0
+
+# Web admin
+Flask>=2.2,<3.0
+
+# Environment variable loading
+python-dotenv>=1.0
+
+# HTTP utilities (used by admin / optional helpers)
+requests>=2.28.0
+
+# (Optional) production WSGI server for the web admin
+gunicorn>=20.1.0
+
+# Note: pip will install aiogram's sub-dependencies (aiohttp, yarl, multidict, etc.).

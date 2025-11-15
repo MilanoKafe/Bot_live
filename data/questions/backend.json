@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "question": "Python-da ro'yxat (list) elementiga yangi element qanday qo'shiladi?",
+    "answers": [
+      {
+        "text": "append() metodi bilan",
+        "correct": true
+      },
+      {
+        "text": "add() metodi bilan",
+        "correct": false
+      },
+      {
+        "text": "push() metodi bilan",
+        "correct": false
+      },
+      {
+        "text": "insert_last() metodi bilan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "REST API-da HTTP 201 kodi nimani bildiradi?",
+    "answers": [
+      {
+        "text": "Muvaffaqiyatli yaratish (Created)",
+        "correct": true
+      },
+      {
+        "text": "Mening so'rovim moviy amalga oshirildi",
+        "correct": false
+      },
+      {
+        "text": "Server xatosi (Internal Error)",
+        "correct": false
+      },
+      {
+        "text": "Resurs topilmadi (Not Found)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "SQL-da jadvaldan barcha yozuvlarni olish uchun qaysi so'rov ishlatiladi?",
+    "answers": [
+      {
+        "text": "SELECT * FROM table;",
+        "correct": true
+      },
+      {
+        "text": "GET * FROM table;",
+        "correct": false
+      },
+      {
+        "text": "FETCH ALL FROM table;",
+        "correct": false
+      },
+      {
+        "text": "READ table;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "savol",
+    "answers": [
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": true
+      }
+    ]
+  }
+]

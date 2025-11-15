@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Rastr grafikada piksellararning minimalati nima?",
+    "answers": [
+      {"text": "Pixel (piksel)", "correct": true},
+      {"text": "Vector point", "correct": false},
+      {"text": "Node", "correct": false},
+      {"text": "Anchor", "correct": false}
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Vektor grafikasining afzalligi nima?",
+    "answers": [
+      {"text": "O'lchami o'zgarganda sifat yo'qotilmaydi", "correct": true},
+      {"text": "Har doim to'g'ri rangni ko'rsatadi", "correct": false},
+      {"text": "Rastrga qaraganda tezroq yuklanadi har doim", "correct": false},
+      {"text": "Har doim animatsiyalarni qo'llab-quvvatlaydi", "correct": false}
+    ]
+  }
+]

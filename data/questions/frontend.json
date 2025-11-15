@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "HTML hujjatda sarlavha teglaridan qaysi biri eng muhim semantik teglardan?",
+    "answers": [
+      {"text": "<header>", "correct": true},
+      {"text": "<div>", "correct": false},
+      {"text": "<span>", "correct": false},
+      {"text": "<section>", "correct": false}
+    ]
+  },
+  {
+    "id": 2,
+    "question": "CSS da elementni markazlashtirish uchun qaysi xossalar ishlatiladi?",
+    "answers": [
+      {"text": "margin: 0 auto; (blok elementlar uchun)", "correct": true},
+      {"text": "float: center;", "correct": false},
+      {"text": "align: middle;", "correct": false},
+      {"text": "position: center;", "correct": false}
+    ]
+  },
+  {
+    "id": 3,
+    "question": "JavaScript-da asinxron kodni boshqarish uchun qaysi konstruktsiyalar mavjud?",
+    "answers": [
+      {"text": "Promises, async/await, callbacks", "correct": true},
+      {"text": "Threads va locks", "correct": false},
+      {"text": "Synchronous only", "correct": false},
+      {"text": "Only generators", "correct": false}
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "O'qish tezligini oshirish uchun qaysi amaliyot foydali?",
+    "answers": [
+      {"text": "Skimming va scanning texnikalari", "correct": true},
+      {"text": "Har doim so'zni ohista o'qish", "correct": false},
+      {"text": "Hech qachon chalg'itmaslik", "correct": false},
+      {"text": "Matnni ko'paytirish", "correct": false}
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Yozuv sifatini oshirish uchun qaysi qoidani ishlatish kerak?",
+    "answers": [
+      {"text": "Qisqa va lo'nda gaplar yozish", "correct": true},
+      {"text": "Uzun so'zlardan foydalanishni afzal bilish", "correct": false},
+      {"text": "Grammatikani e'tiborsiz qoldirish", "correct": false},
+      {"text": "Har doim sinonimlardan foydalanish", "correct": false}
+    ]
+  }
+]

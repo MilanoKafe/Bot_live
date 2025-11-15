@@ -1,0 +1,541 @@
+2025-11-15 19:56:26,373 - __main__ - INFO - Bot boshlandi!
+2025-11-15 19:56:26,373 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 19:56:26,374 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 19:56:26,482 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 19:56:26,605 - aiogram.event - INFO - Update id=421897449 is not handled. Duration 0 ms by bot id=8413457817
+2025-11-15 19:56:27,077 - aiogram.event - INFO - Update id=421897445 is handled. Duration 485 ms by bot id=8413457817
+2025-11-15 19:56:27,096 - aiogram.event - INFO - Update id=421897452 is handled. Duration 500 ms by bot id=8413457817
+2025-11-15 19:56:27,127 - aiogram.event - INFO - Update id=421897450 is handled. Duration 532 ms by bot id=8413457817
+2025-11-15 19:56:27,144 - aiogram.event - INFO - Update id=421897451 is handled. Duration 547 ms by bot id=8413457817
+2025-11-15 19:56:27,172 - aiogram.event - INFO - Update id=421897448 is handled. Duration 578 ms by bot id=8413457817
+2025-11-15 19:56:27,198 - aiogram.event - INFO - Update id=421897446 is handled. Duration 594 ms by bot id=8413457817
+2025-11-15 19:56:27,220 - aiogram.event - INFO - Update id=421897447 is handled. Duration 625 ms by bot id=8413457817
+2025-11-15 19:56:45,715 - aiogram.event - INFO - Update id=421897453 is handled. Duration 516 ms by bot id=8413457817
+2025-11-15 19:56:53,111 - aiogram.event - INFO - Update id=421897454 is handled. Duration 453 ms by bot id=8413457817
+2025-11-15 19:56:55,094 - aiogram.event - INFO - Update id=421897455 is handled. Duration 264 ms by bot id=8413457817
+2025-11-15 19:56:56,822 - aiogram.event - INFO - Update id=421897456 is handled. Duration 155 ms by bot id=8413457817
+2025-11-15 19:56:59,241 - aiogram.event - INFO - Update id=421897457 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 19:57:01,127 - aiogram.event - INFO - Update id=421897458 is handled. Duration 407 ms by bot id=8413457817
+2025-11-15 19:57:03,437 - aiogram.event - INFO - Update id=421897459 is handled. Duration 233 ms by bot id=8413457817
+2025-11-15 19:57:04,693 - aiogram.event - INFO - Update id=421897460 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 19:57:10,157 - aiogram.event - INFO - Update id=421897461 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 19:57:11,440 - aiogram.event - INFO - Update id=421897462 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 19:57:16,922 - aiogram.event - INFO - Update id=421897463 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 19:57:18,380 - aiogram.event - INFO - Update id=421897464 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 19:57:21,953 - aiogram.event - INFO - Update id=421897465 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 19:57:23,346 - aiogram.event - INFO - Update id=421897466 is handled. Duration 311 ms by bot id=8413457817
+2025-11-15 19:57:26,283 - aiogram.event - INFO - Update id=421897467 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 19:58:45,313 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 19:58:45,465 - aiogram.event - INFO - Update id=421897468 is handled. Duration 467 ms by bot id=8413457817
+2025-11-15 19:59:52,242 - __main__ - INFO - Bot boshlandi!
+2025-11-15 19:59:52,242 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 19:59:52,243 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 19:59:52,348 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 20:00:14,213 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 20:00:14,346 - aiogram.event - INFO - Update id=421897469 is handled. Duration 452 ms by bot id=8413457817
+2025-11-15 20:00:19,458 - aiogram.event - INFO - Update id=421897470 is handled. Duration 266 ms by bot id=8413457817
+2025-11-15 20:00:20,843 - aiogram.event - INFO - Update id=421897471 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:00:22,058 - aiogram.event - INFO - Update id=421897472 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:00:24,005 - aiogram.event - INFO - Update id=421897473 is handled. Duration 344 ms by bot id=8413457817
+2025-11-15 20:00:26,409 - aiogram.event - INFO - Update id=421897474 is handled. Duration 313 ms by bot id=8413457817
+2025-11-15 20:00:29,153 - aiogram.event - INFO - Update id=421897475 is handled. Duration 202 ms by bot id=8413457817
+2025-11-15 20:00:32,076 - aiogram.event - INFO - Update id=421897476 is handled. Duration 282 ms by bot id=8413457817
+2025-11-15 20:00:32,676 - aiogram.event - INFO - Update id=421897477 is handled. Duration 155 ms by bot id=8413457817
+2025-11-15 20:00:35,046 - aiogram.event - INFO - Update id=421897478 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:00:36,654 - aiogram.event - INFO - Update id=421897479 is handled. Duration 375 ms by bot id=8413457817
+2025-11-15 20:00:53,857 - aiogram.event - INFO - Update id=421897480 is handled. Duration 453 ms by bot id=8413457817
+2025-11-15 20:00:55,400 - aiogram.event - INFO - Update id=421897481 is handled. Duration 422 ms by bot id=8413457817
+2025-11-15 20:07:23,109 - __main__ - INFO - Bot boshlandi!
+2025-11-15 20:07:23,110 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 20:07:23,110 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 20:07:23,220 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 20:07:23,668 - logger - INFO - User 7756088500 - Action: Yangi foydalanuvchi - Details: username: Beko_kreative
+2025-11-15 20:07:23,683 - logger - INFO - User 7756088500 - Action: Start qayta - Details: username: Beko_kreative
+2025-11-15 20:07:23,933 - aiogram.event - INFO - Update id=421897484 is handled. Duration 578 ms by bot id=8413457817
+2025-11-15 20:07:24,054 - aiogram.event - INFO - Update id=421897482 is not handled. Duration 717 ms by bot id=8413457817
+2025-11-15 20:07:24,054 - aiogram.event - ERROR - Cause exception while process update id=421897482 by bot id=8413457817
+TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+Traceback (most recent call last):
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\HPAmd\Documents\mukammal bot\handlers\menu.py", line 18, in main_menu
+    await callback.answer()
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-11-15 20:07:24,149 - aiogram.event - INFO - Update id=421897483 is handled. Duration 811 ms by bot id=8413457817
+2025-11-15 20:08:28,048 - logger - INFO - User 7613242496 - Action: Yangi foydalanuvchi - Details: username: MirkomilCoder
+2025-11-15 20:08:28,346 - aiogram.event - INFO - Update id=421897485 is handled. Duration 625 ms by bot id=8413457817
+2025-11-15 20:08:31,666 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 20:08:31,794 - aiogram.event - INFO - Update id=421897486 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:08:35,919 - aiogram.event - INFO - Update id=421897487 is handled. Duration 217 ms by bot id=8413457817
+2025-11-15 20:08:38,415 - aiogram.event - INFO - Update id=421897488 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:08:39,417 - aiogram.event - INFO - Update id=421897489 is handled. Duration 280 ms by bot id=8413457817
+2025-11-15 20:08:40,880 - aiogram.event - INFO - Update id=421897490 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:08:43,664 - aiogram.event - INFO - Update id=421897491 is handled. Duration 484 ms by bot id=8413457817
+2025-11-15 20:08:44,565 - aiogram.event - INFO - Update id=421897492 is handled. Duration 375 ms by bot id=8413457817
+2025-11-15 20:08:45,995 - aiogram.event - INFO - Update id=421897493 is handled. Duration 563 ms by bot id=8413457817
+2025-11-15 20:08:48,087 - aiogram.event - INFO - Update id=421897494 is handled. Duration 141 ms by bot id=8413457817
+2025-11-15 20:08:50,838 - aiogram.event - INFO - Update id=421897495 is handled. Duration 235 ms by bot id=8413457817
+2025-11-15 20:08:51,317 - aiogram.event - INFO - Update id=421897496 is handled. Duration 265 ms by bot id=8413457817
+2025-11-15 20:08:54,869 - aiogram.event - INFO - Update id=421897497 is handled. Duration 703 ms by bot id=8413457817
+2025-11-15 20:08:55,491 - aiogram.event - INFO - Update id=421897498 is handled. Duration 125 ms by bot id=8413457817
+2025-11-15 20:08:59,119 - aiogram.event - INFO - Update id=421897499 is handled. Duration 297 ms by bot id=8413457817
+2025-11-15 20:09:00,729 - aiogram.event - INFO - Update id=421897500 is handled. Duration 233 ms by bot id=8413457817
+2025-11-15 20:09:06,728 - aiogram.event - INFO - Update id=421897501 is not handled. Duration 0 ms by bot id=8413457817
+2025-11-15 20:11:02,660 - __main__ - INFO - Bot boshlandi!
+2025-11-15 20:11:02,660 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 20:11:02,661 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 20:11:02,778 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 20:11:03,557 - aiogram.event - INFO - Update id=421897502 is handled. Duration 671 ms by bot id=8413457817
+2025-11-15 20:11:22,720 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 20:11:22,857 - aiogram.event - INFO - Update id=421897503 is handled. Duration 453 ms by bot id=8413457817
+2025-11-15 20:11:27,406 - aiogram.event - INFO - Update id=421897504 is handled. Duration 328 ms by bot id=8413457817
+2025-11-15 20:11:28,017 - aiogram.event - INFO - Update id=421897505 is handled. Duration 203 ms by bot id=8413457817
+2025-11-15 20:11:37,801 - aiogram.event - INFO - Update id=421897506 is handled. Duration 280 ms by bot id=8413457817
+2025-11-15 20:11:40,126 - aiogram.event - INFO - Update id=421897507 is handled. Duration 186 ms by bot id=8413457817
+2025-11-15 20:11:42,819 - aiogram.event - INFO - Update id=421897508 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:11:43,966 - aiogram.event - INFO - Update id=421897509 is handled. Duration 233 ms by bot id=8413457817
+2025-11-15 20:11:44,951 - aiogram.event - INFO - Update id=421897510 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:11:45,609 - aiogram.event - INFO - Update id=421897511 is handled. Duration 266 ms by bot id=8413457817
+2025-11-15 20:11:47,360 - aiogram.event - INFO - Update id=421897512 is handled. Duration 453 ms by bot id=8413457817
+2025-11-15 20:11:48,176 - aiogram.event - INFO - Update id=421897513 is handled. Duration 359 ms by bot id=8413457817
+2025-11-15 20:11:51,711 - aiogram.event - INFO - Update id=421897514 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:11:52,831 - aiogram.event - INFO - Update id=421897515 is handled. Duration 217 ms by bot id=8413457817
+2025-11-15 20:11:54,404 - aiogram.event - INFO - Update id=421897516 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:11:56,589 - aiogram.event - INFO - Update id=421897517 is handled. Duration 186 ms by bot id=8413457817
+2025-11-15 20:12:00,571 - aiogram.event - INFO - Update id=421897518 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:12:06,494 - aiogram.event - INFO - Update id=421897519 is handled. Duration 405 ms by bot id=8413457817
+2025-11-15 20:13:07,818 - aiogram.event - INFO - Update id=421897520 is handled. Duration 342 ms by bot id=8413457817
+2025-11-15 20:13:15,111 - aiogram.event - INFO - Update id=421897521 is handled. Duration 203 ms by bot id=8413457817
+2025-11-15 20:13:39,752 - aiogram.event - INFO - Update id=421897522 is handled. Duration 389 ms by bot id=8413457817
+2025-11-15 20:13:40,050 - aiogram.event - INFO - Update id=421897523 is handled. Duration 186 ms by bot id=8413457817
+2025-11-15 20:13:57,938 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-15 20:13:58,190 - __main__ - INFO - Bot to'xtadi!
+2025-11-15 20:13:58,191 - aiogram.dispatcher - INFO - Polling stopped for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 20:16:43,651 - __main__ - INFO - Bot boshlandi!
+2025-11-15 20:16:43,651 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 20:16:43,652 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 20:16:43,757 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 20:16:44,205 - logger - INFO - User 7756088500 - Action: Start qayta - Details: username: Beko_kreative
+2025-11-15 20:16:44,210 - logger - INFO - User 7756088500 - Action: Start qayta - Details: username: Beko_kreative
+2025-11-15 20:16:44,222 - logger - INFO - User 7756088500 - Action: Start qayta - Details: username: Beko_kreative
+2025-11-15 20:16:44,274 - aiogram.event - INFO - Update id=421897525 is handled. Duration 407 ms by bot id=8413457817
+2025-11-15 20:16:44,301 - aiogram.event - INFO - Update id=421897526 is handled. Duration 438 ms by bot id=8413457817
+2025-11-15 20:16:44,314 - aiogram.event - INFO - Update id=421897524 is handled. Duration 438 ms by bot id=8413457817
+2025-11-15 20:16:44,419 - aiogram.event - INFO - Update id=421897528 is handled. Duration 547 ms by bot id=8413457817
+2025-11-15 20:16:44,436 - aiogram.event - INFO - Update id=421897529 is handled. Duration 563 ms by bot id=8413457817
+2025-11-15 20:16:44,456 - aiogram.event - INFO - Update id=421897527 is handled. Duration 578 ms by bot id=8413457817
+2025-11-15 20:16:49,416 - aiogram.event - INFO - Update id=421897530 is handled. Duration 140 ms by bot id=8413457817
+2025-11-15 20:16:54,103 - aiogram.event - INFO - Update id=421897531 is handled. Duration 219 ms by bot id=8413457817
+2025-11-15 20:16:56,194 - aiogram.event - INFO - Update id=421897532 is handled. Duration 405 ms by bot id=8413457817
+2025-11-15 20:17:02,522 - aiogram.event - INFO - Update id=421897533 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:17:04,273 - aiogram.event - INFO - Update id=421897534 is handled. Duration 265 ms by bot id=8413457817
+2025-11-15 20:17:08,630 - aiogram.event - INFO - Update id=421897535 is handled. Duration 453 ms by bot id=8413457817
+2025-11-15 20:17:10,542 - aiogram.event - INFO - Update id=421897536 is handled. Duration 390 ms by bot id=8413457817
+2025-11-15 20:17:28,425 - aiogram.event - INFO - Update id=421897537 is handled. Duration 375 ms by bot id=8413457817
+2025-11-15 20:17:30,126 - aiogram.event - INFO - Update id=421897538 is handled. Duration 311 ms by bot id=8413457817
+2025-11-15 20:17:31,371 - aiogram.event - INFO - Update id=421897539 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:17:32,733 - aiogram.event - INFO - Update id=421897540 is handled. Duration 375 ms by bot id=8413457817
+2025-11-15 20:17:33,771 - aiogram.event - INFO - Update id=421897541 is handled. Duration 265 ms by bot id=8413457817
+2025-11-15 20:17:34,573 - aiogram.event - INFO - Update id=421897542 is handled. Duration 280 ms by bot id=8413457817
+2025-11-15 20:17:35,454 - aiogram.event - INFO - Update id=421897543 is handled. Duration 311 ms by bot id=8413457817
+2025-11-15 20:17:37,449 - aiogram.event - INFO - Update id=421897544 is handled. Duration 421 ms by bot id=8413457817
+2025-11-15 20:17:38,150 - aiogram.event - INFO - Update id=421897545 is handled. Duration 359 ms by bot id=8413457817
+2025-11-15 20:17:39,057 - aiogram.event - INFO - Update id=421897546 is handled. Duration 219 ms by bot id=8413457817
+2025-11-15 20:18:01,184 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 20:18:01,422 - aiogram.event - INFO - Update id=421897547 is handled. Duration 875 ms by bot id=8413457817
+2025-11-15 20:18:26,319 - aiogram.event - INFO - Update id=421897548 is not handled. Duration 0 ms by bot id=8413457817
+2025-11-15 20:18:35,832 - aiogram.event - INFO - Update id=421897549 is not handled. Duration 15 ms by bot id=8413457817
+2025-11-15 20:18:37,506 - aiogram.event - INFO - Update id=421897550 is handled. Duration 484 ms by bot id=8413457817
+2025-11-15 20:18:38,414 - aiogram.event - INFO - Update id=421897551 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:18:39,350 - aiogram.event - INFO - Update id=421897552 is handled. Duration 266 ms by bot id=8413457817
+2025-11-15 20:18:40,144 - aiogram.event - INFO - Update id=421897553 is handled. Duration 266 ms by bot id=8413457817
+2025-11-15 20:18:41,565 - aiogram.event - INFO - Update id=421897554 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:18:43,574 - aiogram.event - INFO - Update id=421897555 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:18:44,303 - aiogram.event - INFO - Update id=421897556 is handled. Duration 265 ms by bot id=8413457817
+2025-11-15 20:18:45,515 - aiogram.event - INFO - Update id=421897557 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:18:47,096 - aiogram.event - INFO - Update id=421897558 is handled. Duration 219 ms by bot id=8413457817
+2025-11-15 20:18:48,027 - aiogram.event - INFO - Update id=421897559 is handled. Duration 188 ms by bot id=8413457817
+2025-11-15 20:18:51,273 - aiogram.event - INFO - Update id=421897560 is handled. Duration 125 ms by bot id=8413457817
+2025-11-15 20:18:55,675 - aiogram.event - INFO - Update id=421897561 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:18:59,270 - aiogram.event - INFO - Update id=421897562 is handled. Duration 219 ms by bot id=8413457817
+2025-11-15 20:19:01,652 - aiogram.event - INFO - Update id=421897563 is handled. Duration 532 ms by bot id=8413457817
+2025-11-15 20:19:04,401 - aiogram.event - INFO - Update id=421897564 is handled. Duration 265 ms by bot id=8413457817
+2025-11-15 20:19:11,301 - aiogram.event - INFO - Update id=421897565 is handled. Duration 280 ms by bot id=8413457817
+2025-11-15 20:19:13,963 - aiogram.event - INFO - Update id=421897566 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:19:20,190 - aiogram.event - INFO - Update id=421897567 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:19:25,707 - aiogram.event - INFO - Update id=421897568 is handled. Duration 186 ms by bot id=8413457817
+2025-11-15 20:19:31,543 - aiogram.event - INFO - Update id=421897569 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:19:40,168 - aiogram.event - INFO - Update id=421897570 is handled. Duration 375 ms by bot id=8413457817
+2025-11-15 20:19:41,567 - aiogram.event - INFO - Update id=421897571 is handled. Duration 140 ms by bot id=8413457817
+2025-11-15 20:19:43,796 - aiogram.event - INFO - Update id=421897572 is handled. Duration 328 ms by bot id=8413457817
+2025-11-15 20:19:47,808 - aiogram.event - INFO - Update id=421897573 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:19:50,604 - aiogram.event - INFO - Update id=421897574 is handled. Duration 157 ms by bot id=8413457817
+2025-11-15 20:19:52,806 - aiogram.event - INFO - Update id=421897575 is handled. Duration 280 ms by bot id=8413457817
+2025-11-15 20:20:06,289 - aiogram.event - INFO - Update id=421897576 is handled. Duration 172 ms by bot id=8413457817
+2025-11-15 20:20:08,386 - aiogram.event - INFO - Update id=421897577 is handled. Duration 155 ms by bot id=8413457817
+2025-11-15 20:22:42,760 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 20:22:42,891 - aiogram.event - INFO - Update id=421897578 is handled. Duration 469 ms by bot id=8413457817
+2025-11-15 20:22:47,931 - aiogram.event - INFO - Update id=421897579 is handled. Duration 405 ms by bot id=8413457817
+2025-11-15 20:22:51,541 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 20:22:51,722 - aiogram.event - INFO - Update id=421897580 is handled. Duration 280 ms by bot id=8413457817
+2025-11-15 20:22:57,722 - aiogram.event - INFO - Update id=421897581 is handled. Duration 327 ms by bot id=8413457817
+2025-11-15 20:23:04,094 - aiogram.event - INFO - Update id=421897582 is handled. Duration 327 ms by bot id=8413457817
+2025-11-15 20:23:05,316 - aiogram.event - INFO - Update id=421897583 is handled. Duration 140 ms by bot id=8413457817
+2025-11-15 20:23:12,792 - aiogram.event - INFO - Update id=421897584 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:23:14,416 - aiogram.event - INFO - Update id=421897585 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:23:19,623 - aiogram.event - INFO - Update id=421897586 is handled. Duration 389 ms by bot id=8413457817
+2025-11-15 20:23:31,602 - aiogram.event - INFO - Update id=421897587 is handled. Duration 328 ms by bot id=8413457817
+2025-11-15 20:23:33,100 - aiogram.event - INFO - Update id=421897588 is handled. Duration 469 ms by bot id=8413457817
+2025-11-15 20:23:34,008 - aiogram.event - INFO - Update id=421897589 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:23:34,965 - aiogram.event - INFO - Update id=421897590 is handled. Duration 108 ms by bot id=8413457817
+2025-11-15 20:23:37,292 - aiogram.event - INFO - Update id=421897591 is handled. Duration 375 ms by bot id=8413457817
+2025-11-15 20:23:43,107 - aiogram.event - INFO - Update id=421897592 is handled. Duration 422 ms by bot id=8413457817
+2025-11-15 20:23:44,170 - aiogram.event - INFO - Update id=421897593 is handled. Duration 530 ms by bot id=8413457817
+2025-11-15 20:24:37,201 - aiogram.event - INFO - Update id=421897594 is handled. Duration 484 ms by bot id=8413457817
+2025-11-15 20:24:49,295 - aiogram.event - INFO - Update id=421897595 is handled. Duration 734 ms by bot id=8413457817
+2025-11-15 20:24:51,755 - aiogram.event - INFO - Update id=421897596 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:24:58,123 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-15 20:24:58,380 - __main__ - INFO - Bot to'xtadi!
+2025-11-15 20:24:58,381 - aiogram.dispatcher - INFO - Polling stopped for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 20:28:49,436 - __main__ - INFO - Bot boshlandi!
+2025-11-15 20:28:49,437 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 20:28:49,438 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 20:28:49,544 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 20:28:49,667 - aiogram.event - INFO - Update id=421897597 is not handled. Duration 0 ms by bot id=8413457817
+2025-11-15 20:28:53,538 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 20:28:53,679 - aiogram.event - INFO - Update id=421897600 is handled. Duration 469 ms by bot id=8413457817
+2025-11-15 20:28:57,962 - aiogram.event - INFO - Update id=421897601 is handled. Duration 155 ms by bot id=8413457817
+2025-11-15 20:29:05,776 - aiogram.event - INFO - Update id=421897602 is not handled. Duration 15 ms by bot id=8413457817
+2025-11-15 20:29:11,281 - aiogram.event - INFO - Update id=421897603 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:29:16,029 - aiogram.event - INFO - Update id=421897604 is handled. Duration 171 ms by bot id=8413457817
+2025-11-15 20:31:11,474 - aiogram.event - INFO - Update id=421897605 is handled. Duration 485 ms by bot id=8413457817
+2025-11-15 20:31:16,181 - aiogram.event - INFO - Update id=421897606 is handled. Duration 344 ms by bot id=8413457817
+2025-11-15 20:31:17,559 - aiogram.event - INFO - Update id=421897607 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:31:18,714 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: backend
+2025-11-15 20:31:18,991 - aiogram.event - INFO - Update id=421897608 is handled. Duration 280 ms by bot id=8413457817
+2025-11-15 20:31:27,039 - aiogram.event - INFO - Update id=421897609 is handled. Duration 1936 ms by bot id=8413457817
+2025-11-15 20:31:35,625 - aiogram.event - INFO - Update id=421897610 is handled. Duration 1905 ms by bot id=8413457817
+2025-11-15 20:31:50,735 - logger - INFO - User 7613242496 - Action: Test tugadi - Details: To'g'ri: 1/3
+2025-11-15 20:31:55,931 - aiogram.event - INFO - Update id=421897611 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:31:57,766 - aiogram.event - INFO - Update id=421897612 is handled. Duration 125 ms by bot id=8413457817
+2025-11-15 20:31:59,822 - aiogram.event - INFO - Update id=421897613 is handled. Duration 125 ms by bot id=8413457817
+2025-11-15 20:32:02,290 - aiogram.event - INFO - Update id=421897614 is handled. Duration 125 ms by bot id=8413457817
+2025-11-15 20:32:05,432 - aiogram.event - INFO - Update id=421897615 is handled. Duration 188 ms by bot id=8413457817
+2025-11-15 20:32:10,073 - aiogram.event - INFO - Update id=421897616 is handled. Duration 109 ms by bot id=8413457817
+2025-11-15 20:32:13,125 - aiogram.event - INFO - Update id=421897617 is handled. Duration 375 ms by bot id=8413457817
+2025-11-15 20:32:55,743 - logger - INFO - User 7093925250 - Action: Yangi foydalanuvchi - Details: username: Cafe_Milano_Zomin
+2025-11-15 20:32:56,193 - aiogram.event - INFO - Update id=421897618 is handled. Duration 890 ms by bot id=8413457817
+2025-11-15 20:33:00,023 - aiogram.event - INFO - Update id=421897619 is handled. Duration 171 ms by bot id=8413457817
+2025-11-15 20:33:07,161 - aiogram.event - INFO - Update id=421897620 is handled. Duration 172 ms by bot id=8413457817
+2025-11-15 20:33:08,807 - aiogram.event - INFO - Update id=421897621 is handled. Duration 313 ms by bot id=8413457817
+2025-11-15 20:33:18,978 - aiogram.event - INFO - Update id=421897622 is handled. Duration 125 ms by bot id=8413457817
+2025-11-15 20:33:23,900 - aiogram.event - INFO - Update id=421897623 is handled. Duration 140 ms by bot id=8413457817
+2025-11-15 20:33:29,571 - aiogram.event - INFO - Update id=421897624 is handled. Duration 155 ms by bot id=8413457817
+2025-11-15 20:33:37,371 - aiogram.event - INFO - Update id=421897625 is not handled. Duration 14 ms by bot id=8413457817
+2025-11-15 20:33:49,000 - aiogram.event - INFO - Update id=421897626 is handled. Duration 452 ms by bot id=8413457817
+2025-11-15 20:33:52,424 - aiogram.event - INFO - Update id=421897627 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:33:58,016 - aiogram.event - INFO - Update id=421897628 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:45:59,928 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-15 20:46:00,180 - __main__ - INFO - Bot to'xtadi!
+2025-11-15 20:46:00,181 - aiogram.dispatcher - INFO - Polling stopped for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 20:46:05,393 - __main__ - INFO - Bot boshlandi!
+2025-11-15 20:46:05,393 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 20:46:05,393 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 20:46:05,495 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 20:46:36,655 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 20:46:36,819 - aiogram.event - INFO - Update id=421897629 is handled. Duration 484 ms by bot id=8413457817
+2025-11-15 20:46:50,278 - aiogram.event - INFO - Update id=421897630 is handled. Duration 156 ms by bot id=8413457817
+2025-11-15 20:46:54,639 - aiogram.event - INFO - Update id=421897631 is handled. Duration 281 ms by bot id=8413457817
+2025-11-15 20:46:57,559 - aiogram.event - INFO - Update id=421897632 is handled. Duration 172 ms by bot id=8413457817
+2025-11-15 20:47:00,172 - aiogram.event - INFO - Update id=421897633 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:47:01,663 - aiogram.event - INFO - Update id=421897634 is handled. Duration 311 ms by bot id=8413457817
+2025-11-15 20:47:08,232 - aiogram.event - INFO - Update id=421897635 is handled. Duration 156 ms by bot id=8413457817
+2025-11-15 20:47:29,564 - aiogram.event - INFO - Update id=421897636 is handled. Duration 1172 ms by bot id=8413457817
+2025-11-15 20:47:32,096 - aiogram.event - INFO - Update id=421897637 is handled. Duration 593 ms by bot id=8413457817
+2025-11-15 20:47:36,686 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 20:47:36,827 - aiogram.event - INFO - Update id=421897638 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:47:38,618 - aiogram.event - INFO - Update id=421897639 is handled. Duration 359 ms by bot id=8413457817
+2025-11-15 20:47:40,791 - aiogram.event - INFO - Update id=421897640 is handled. Duration 264 ms by bot id=8413457817
+2025-11-15 20:47:41,681 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: backend
+2025-11-15 20:47:41,948 - aiogram.event - INFO - Update id=421897641 is handled. Duration 264 ms by bot id=8413457817
+2025-11-15 20:47:45,220 - aiogram.event - INFO - Update id=421897642 is handled. Duration 1936 ms by bot id=8413457817
+2025-11-15 20:47:48,699 - aiogram.event - INFO - Update id=421897643 is handled. Duration 2796 ms by bot id=8413457817
+2025-11-15 20:47:50,509 - aiogram.event - INFO - Update id=421897644 is handled. Duration 2202 ms by bot id=8413457817
+2025-11-15 20:47:56,985 - logger - INFO - User 7613242496 - Action: Test tugadi - Details: To'g'ri: 1/4
+2025-11-15 20:47:57,108 - aiogram.event - INFO - Update id=421897645 is handled. Duration 1921 ms by bot id=8413457817
+2025-11-15 20:47:58,688 - aiogram.event - INFO - Update id=421897646 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:48:00,347 - aiogram.event - INFO - Update id=421897647 is handled. Duration 280 ms by bot id=8413457817
+2025-11-15 20:48:01,413 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: backend
+2025-11-15 20:48:01,798 - aiogram.event - INFO - Update id=421897648 is handled. Duration 375 ms by bot id=8413457817
+2025-11-15 20:48:04,479 - aiogram.event - INFO - Update id=421897649 is handled. Duration 2063 ms by bot id=8413457817
+2025-11-15 20:48:07,550 - aiogram.event - INFO - Update id=421897650 is handled. Duration 1983 ms by bot id=8413457817
+2025-11-15 20:48:10,955 - aiogram.event - INFO - Update id=421897651 is handled. Duration 2421 ms by bot id=8413457817
+2025-11-15 20:48:13,048 - logger - INFO - User 7613242496 - Action: Test tugadi - Details: To'g'ri: 2/4
+2025-11-15 20:48:13,242 - aiogram.event - INFO - Update id=421897652 is handled. Duration 2156 ms by bot id=8413457817
+2025-11-15 20:48:15,559 - aiogram.event - INFO - Update id=421897653 is handled. Duration 531 ms by bot id=8413457817
+2025-11-15 20:48:45,933 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 20:48:46,189 - aiogram.event - INFO - Update id=421897654 is handled. Duration 578 ms by bot id=8413457817
+2025-11-15 20:48:48,375 - aiogram.event - INFO - Update id=421897655 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:48:49,346 - aiogram.event - INFO - Update id=421897656 is handled. Duration 218 ms by bot id=8413457817
+2025-11-15 20:48:50,146 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: backend
+2025-11-15 20:48:50,386 - aiogram.event - INFO - Update id=421897657 is handled. Duration 234 ms by bot id=8413457817
+2025-11-15 20:48:52,589 - aiogram.event - INFO - Update id=421897658 is handled. Duration 1890 ms by bot id=8413457817
+2025-11-15 20:48:55,641 - aiogram.event - INFO - Update id=421897659 is handled. Duration 2234 ms by bot id=8413457817
+2025-11-15 20:48:58,027 - aiogram.event - INFO - Update id=421897660 is handled. Duration 2281 ms by bot id=8413457817
+2025-11-15 20:49:01,374 - logger - INFO - User 7613242496 - Action: Test tugadi - Details: To'g'ri: 2/4
+2025-11-15 20:49:01,486 - aiogram.event - INFO - Update id=421897661 is handled. Duration 1984 ms by bot id=8413457817
+2025-11-15 20:49:06,484 - aiogram.event - INFO - Update id=421897662 is handled. Duration 343 ms by bot id=8413457817
+2025-11-15 20:49:07,940 - aiogram.event - INFO - Update id=421897663 is handled. Duration 360 ms by bot id=8413457817
+2025-11-15 20:49:09,313 - aiogram.event - INFO - Update id=421897664 is handled. Duration 313 ms by bot id=8413457817
+2025-11-15 20:59:36,402 - __main__ - INFO - Bot boshlandi!
+2025-11-15 20:59:36,402 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 20:59:36,402 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 20:59:36,510 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 20:59:41,425 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 20:59:41,589 - aiogram.event - INFO - Update id=421897665 is handled. Duration 484 ms by bot id=8413457817
+2025-11-15 20:59:44,091 - aiogram.event - INFO - Update id=421897666 is handled. Duration 171 ms by bot id=8413457817
+2025-11-15 20:59:45,487 - aiogram.event - INFO - Update id=421897667 is handled. Duration 218 ms by bot id=8413457817
+2025-11-15 20:59:47,575 - aiogram.event - INFO - Update id=421897668 is handled. Duration 141 ms by bot id=8413457817
+2025-11-15 20:59:49,769 - aiogram.event - INFO - Update id=421897669 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 20:59:51,320 - aiogram.event - INFO - Update id=421897670 is not handled. Duration 0 ms by bot id=8413457817
+2025-11-15 20:59:51,320 - aiogram.event - ERROR - Cause exception while process update id=421897670 by bot id=8413457817
+ImportError: cannot import name 'ADMIN_WEB_TOKEN' from 'config' (c:\Users\HPAmd\Documents\mukammal bot\config.py)
+Traceback (most recent call last):
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HPAmd\Documents\mukammal bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\HPAmd\Documents\mukammal bot\handlers\admin.py", line 514, in admin_add_method_web
+    from config import ADMIN_WEB_TOKEN
+ImportError: cannot import name 'ADMIN_WEB_TOKEN' from 'config' (c:\Users\HPAmd\Documents\mukammal bot\config.py)
+2025-11-15 21:02:07,238 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-15 21:02:07,491 - __main__ - INFO - Bot to'xtadi!
+2025-11-15 21:02:07,491 - aiogram.dispatcher - INFO - Polling stopped for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:02:16,259 - __main__ - INFO - Bot boshlandi!
+2025-11-15 21:02:16,260 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 21:02:16,260 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 21:02:16,361 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:02:21,980 - aiogram.event - INFO - Update id=421897671 is handled. Duration 827 ms by bot id=8413457817
+2025-11-15 21:02:23,132 - aiogram.event - INFO - Update id=421897672 is handled. Duration 327 ms by bot id=8413457817
+2025-11-15 21:02:25,690 - aiogram.event - INFO - Update id=421897673 is handled. Duration 139 ms by bot id=8413457817
+2025-11-15 21:02:29,746 - aiogram.event - INFO - Update id=421897674 is handled. Duration 500 ms by bot id=8413457817
+2025-11-15 21:02:30,689 - aiogram.event - INFO - Update id=421897675 is handled. Duration 358 ms by bot id=8413457817
+2025-11-15 21:10:20,711 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-15 21:10:20,964 - __main__ - INFO - Bot to'xtadi!
+2025-11-15 21:10:20,965 - aiogram.dispatcher - INFO - Polling stopped for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:10:25,894 - __main__ - INFO - Bot boshlandi!
+2025-11-15 21:10:25,895 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 21:10:25,895 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 21:10:25,997 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:10:27,353 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-15 21:10:27,609 - __main__ - INFO - Bot to'xtadi!
+2025-11-15 21:10:27,610 - aiogram.dispatcher - INFO - Polling stopped for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:10:43,586 - __main__ - INFO - Bot boshlandi!
+2025-11-15 21:10:43,586 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 21:10:43,587 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 21:10:43,691 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:10:50,160 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-15 21:10:50,423 - __main__ - INFO - Bot to'xtadi!
+2025-11-15 21:10:50,423 - aiogram.dispatcher - INFO - Polling stopped for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:11:08,420 - __main__ - INFO - Bot boshlandi!
+2025-11-15 21:11:08,421 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 21:11:08,422 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 21:11:08,532 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:11:33,843 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-15 21:11:34,104 - __main__ - INFO - Bot to'xtadi!
+2025-11-15 21:11:34,105 - aiogram.dispatcher - INFO - Polling stopped for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:11:41,836 - __main__ - INFO - Bot boshlandi!
+2025-11-15 21:11:41,838 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 21:11:41,838 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 21:11:41,943 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:11:57,691 - aiogram.event - INFO - Update id=421897676 is handled. Duration 827 ms by bot id=8413457817
+2025-11-15 21:12:10,962 - aiogram.event - INFO - Update id=421897677 is handled. Duration 139 ms by bot id=8413457817
+2025-11-15 21:12:14,009 - aiogram.event - INFO - Update id=421897678 is handled. Duration 218 ms by bot id=8413457817
+2025-11-15 21:12:15,102 - aiogram.event - INFO - Update id=421897679 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 21:12:17,949 - aiogram.event - INFO - Update id=421897680 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 21:12:19,587 - aiogram.event - INFO - Update id=421897681 is handled. Duration 313 ms by bot id=8413457817
+2025-11-15 21:17:22,011 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-15 21:17:22,263 - __main__ - INFO - Bot to'xtadi!
+2025-11-15 21:17:22,264 - aiogram.dispatcher - INFO - Polling stopped for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:17:31,681 - __main__ - INFO - Bot boshlandi!
+2025-11-15 21:17:31,682 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 21:17:31,682 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 21:17:31,785 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:24:09,476 - __main__ - INFO - Bot boshlandi!
+2025-11-15 21:24:09,477 - __main__ - INFO - Bot polling boshlandi...
+2025-11-15 21:24:09,477 - aiogram.dispatcher - INFO - Start polling
+2025-11-15 21:24:09,583 - aiogram.dispatcher - INFO - Run polling for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:24:50,547 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 21:24:50,716 - aiogram.event - INFO - Update id=421897682 is handled. Duration 952 ms by bot id=8413457817
+2025-11-15 21:24:54,583 - aiogram.event - INFO - Update id=421897683 is handled. Duration 141 ms by bot id=8413457817
+2025-11-15 21:24:57,089 - aiogram.event - INFO - Update id=421897684 is handled. Duration 421 ms by bot id=8413457817
+2025-11-15 21:24:58,573 - aiogram.event - INFO - Update id=421897685 is handled. Duration 438 ms by bot id=8413457817
+2025-11-15 21:25:02,302 - aiogram.event - INFO - Update id=421897686 is handled. Duration 328 ms by bot id=8413457817
+2025-11-15 21:25:06,080 - aiogram.event - INFO - Update id=421897687 is handled. Duration 219 ms by bot id=8413457817
+2025-11-15 21:25:07,650 - aiogram.event - INFO - Update id=421897688 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 21:25:09,083 - aiogram.event - INFO - Update id=421897689 is handled. Duration 235 ms by bot id=8413457817
+2025-11-15 21:26:56,248 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 21:26:56,507 - aiogram.event - INFO - Update id=421897690 is handled. Duration 577 ms by bot id=8413457817
+2025-11-15 21:26:58,681 - aiogram.event - INFO - Update id=421897691 is handled. Duration 250 ms by bot id=8413457817
+2025-11-15 21:27:00,548 - aiogram.event - INFO - Update id=421897692 is handled. Duration 438 ms by bot id=8413457817
+2025-11-15 21:27:01,678 - aiogram.event - INFO - Update id=421897693 is handled. Duration 313 ms by bot id=8413457817
+2025-11-15 21:27:02,433 - aiogram.event - INFO - Update id=421897694 is handled. Duration 296 ms by bot id=8413457817
+2025-11-15 21:27:03,502 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: backend
+2025-11-15 21:27:03,505 - aiogram.event - INFO - Update id=421897695 is not handled. Duration 0 ms by bot id=8413457817
+2025-11-15 21:27:20,630 - aiogram.event - INFO - Update id=421897696 is not handled. Duration 0 ms by bot id=8413457817
+2025-11-15 21:27:23,505 - aiogram.event - INFO - Update id=421897697 is handled. Duration 656 ms by bot id=8413457817
+2025-11-15 21:27:24,917 - aiogram.event - INFO - Update id=421897698 is handled. Duration 297 ms by bot id=8413457817
+2025-11-15 21:27:25,788 - aiogram.event - INFO - Update id=421897699 is handled. Duration 375 ms by bot id=8413457817
+2025-11-15 21:27:26,595 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: frontend
+2025-11-15 21:27:26,610 - aiogram.event - INFO - Update id=421897700 is not handled. Duration 15 ms by bot id=8413457817
+2025-11-15 21:34:12,019 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-15 21:34:12,272 - __main__ - INFO - Bot to'xtadi!
+2025-11-15 21:34:12,273 - aiogram.dispatcher - INFO - Polling stopped for bot @quiz_coin_uz_bot id=8413457817 - 'Quiz bot'
+2025-11-15 21:34:32,864 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 21:34:38,659 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: backend
+2025-11-15 21:34:44,147 - logger - INFO - User 7613242496 - Action: Test tugadi - Details: To'g'ri: 1/3
+2025-11-15 21:34:49,292 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: backend
+2025-11-15 21:34:50,581 - logger - INFO - User 7613242496 - Action: Test bekor qilindi - Details: 
+2025-11-15 21:35:18,958 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 21:35:30,872 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 21:43:24,418 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 21:43:43,676 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 21:46:06,069 - logger - INFO - User 7093925250 - Action: Start qayta - Details: username: Cafe_Milano_Zomin
+2025-11-15 21:46:35,783 - logger - INFO - User 7093925250 - Action: Start qayta - Details: username: Cafe_Milano_Zomin
+2025-11-15 21:46:40,464 - logger - INFO - User 7093925250 - Action: Test boshladi - Details: category: backend
+2025-11-15 21:46:50,808 - logger - INFO - User 7093925250 - Action: Test tugadi - Details: To'g'ri: 1/4
+2025-11-15 21:49:41,996 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 21:49:51,601 - logger - INFO - User 7093925250 - Action: Start qayta - Details: username: Cafe_Milano_Zomin
+2025-11-15 21:56:29,847 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 22:00:58,473 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 22:03:21,502 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 22:04:08,676 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 22:05:33,967 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 22:06:24,778 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: backend
+2025-11-15 22:06:29,885 - logger - INFO - User 7613242496 - Action: Test bekor qilindi - Details: 
+2025-11-15 22:06:44,411 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: backend
+2025-11-15 22:06:51,679 - logger - INFO - User 7613242496 - Action: Test bekor qilindi - Details: 
+2025-11-15 22:06:55,771 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: backend
+2025-11-15 22:06:59,747 - logger - INFO - User 7613242496 - Action: Test tugadi - Details: To'g'ri: 0/2
+2025-11-15 22:07:00,773 - logger - INFO - User 7613242496 - Action: Test tugadi - Details: To'g'ri: 0/0
+2025-11-15 22:13:46,344 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 22:14:39,294 - logger - INFO - User 7093925250 - Action: Start qayta - Details: username: Cafe_Milano_Zomin
+2025-11-15 22:15:20,075 - logger - INFO - User 7093925250 - Action: Start qayta - Details: username: Cafe_Milano_Zomin
+2025-11-15 22:22:13,100 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 22:22:21,277 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 22:22:23,196 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 22:38:04,547 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 22:38:48,438 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 22:42:57,047 - logger - INFO - User 7613242496 - Action: Start qayta - Details: username: MirkomilCoder
+2025-11-15 22:43:13,298 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: frontend
+2025-11-15 22:43:24,463 - logger - INFO - User 7613242496 - Action: Test tugadi - Details: To'g'ri: 0/2
+2025-11-15 22:43:44,191 - logger - INFO - User 7613242496 - Action: Test tugadi - Details: To'g'ri: 0/2
+2025-11-15 22:44:05,220 - logger - INFO - User 7613242496 - Action: Test boshladi - Details: category: savodhonlik
+2025-11-15 22:44:18,680 - logger - INFO - User 7613242496 - Action: Test tugadi - Details: To'g'ri: 1/2
+2025-11-15 22:54:41,860 - logger - INFO - User 7756088500 - Action: Start qayta - Details: username: Beko_kreative
+2025-11-15 22:54:49,793 - logger - INFO - User 7756088500 - Action: Test boshladi - Details: category: backend
+2025-11-15 22:55:16,173 - logger - INFO - User 7756088500 - Action: Test tugadi - Details: To'g'ri: 1/4
